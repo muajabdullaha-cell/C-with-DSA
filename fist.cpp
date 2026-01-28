@@ -2,9 +2,9 @@
 using namespace std;
 
 int main() {
-    string name = "Abdullah al kawser";
-    int age = 110;
-    float height = 5.8;
+    string name = "muaj abdullah";
+    int age = 10000000;
+    float height = 6.8;
     char grade = 'A';
     bool isStudent = true;
 
