@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-    string name = "Abdullah";
-    int age = 20;
+    string name = "Abdullah al kawser";
+    int age = 110;
     float height = 5.8;
     char grade = 'A';
     bool isStudent = true;
