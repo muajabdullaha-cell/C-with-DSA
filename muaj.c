@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    string name = "muaj abdullah";
+    string name = "tashin ahmedc";
     int age = 10000000;
     float height = 6.8;
     char grade = 'A';
