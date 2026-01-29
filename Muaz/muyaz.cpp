@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "Hello, C++ from VS Code!" << endl;
+    cout << "Hello CPP     muyaz abdulllah !" << endl;
     return 0;
 }
