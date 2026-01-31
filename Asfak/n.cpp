@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "abdullah al kawserhfdjghreuiwhfjerwsjfbjsedbfjihbdsjfbjsdfbjrsbfjbjfdbnklasnfpoIKP[SADJDAWjd-oWQAJDLPJADSfcasedjeadkdmndnmnj]" << endl;
+    cout << "HELLOW WORLD" << endl;
     return 0;
 }
