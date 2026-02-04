@@ -5,8 +5,10 @@ int main () {
     int i = 1;
     int oddsum=0;
     while ( i<=n){
-        c
+        
         cout << i<< " ";
+        oddsum += i;
+        i += 2;
     }
-    cout<<"oddsum="<< sum<<endl;
+    cout<<"oddsum="<< oddsum<<endl;
 }
