@@ -8,7 +8,7 @@ int main () {
     if (ch>='a' && ch<='z') {
         cout << "lowercase";
     }else{
-        cout << "uppercase";
+        cout << "jjjjjj";
     }
     return 0;
 }
